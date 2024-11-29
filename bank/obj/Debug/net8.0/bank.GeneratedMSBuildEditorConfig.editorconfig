@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bank
-build_property.ProjectDir = C:\Users\tkere\RiderProjects\bank\bank\
+build_property.ProjectDir = C:\Users\setsuna\RiderProjects\ibank\bank\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

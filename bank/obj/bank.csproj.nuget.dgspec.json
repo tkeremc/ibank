@@ -1,20 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tkere\\RiderProjects\\bank\\bank\\bank.csproj": {}
+    "C:\\Users\\setsuna\\RiderProjects\\ibank\\bank\\bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tkere\\RiderProjects\\bank\\bank\\bank.csproj": {
+    "C:\\Users\\setsuna\\RiderProjects\\ibank\\bank\\bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tkere\\RiderProjects\\bank\\bank\\bank.csproj",
+        "projectUniqueName": "C:\\Users\\setsuna\\RiderProjects\\ibank\\bank\\bank.csproj",
         "projectName": "bank",
-        "projectPath": "C:\\Users\\tkere\\RiderProjects\\bank\\bank\\bank.csproj",
-        "packagesPath": "C:\\Users\\tkere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tkere\\RiderProjects\\bank\\bank\\obj\\",
+        "projectPath": "C:\\Users\\setsuna\\RiderProjects\\ibank\\bank\\bank.csproj",
+        "packagesPath": "C:\\Users\\setsuna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\setsuna\\RiderProjects\\ibank\\bank\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\tkere\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\setsuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\tkere\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
